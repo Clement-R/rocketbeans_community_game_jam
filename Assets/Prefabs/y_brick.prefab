@@ -55,6 +55,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e8ca02e5b53dff741bce44008e70f27b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  brickDestroyEffect: {fileID: 19847438, guid: 6bd07eefd095f4f4d86398c9e34035c0, type: 2}
 --- !u!212 &21276048
 SpriteRenderer:
   m_ObjectHideFlags: 1

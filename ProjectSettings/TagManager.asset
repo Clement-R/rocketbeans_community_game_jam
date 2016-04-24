@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - levelManager
+  - touchEffectPS
+  - mainAudio
+  - paddle
   layers:
   - Default
   - TransparentFX
